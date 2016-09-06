@@ -22,4 +22,5 @@
         android:text="Show current time"
         android:layout_below="@+id/textView"/>
     //adding a comment
+    //another test comment
 </RelativeLayout>
